@@ -1,0 +1,22 @@
+h1{
+    background-color: red;
+    padding: 8px;
+    text-align: center;
+    display:inline-block;
+    margin: 0 auto;
+}
+img{
+    height: auto;
+    display: block;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3{
+    background-color: blueviolet;
+    display: inline-block;
+}
+.home{
+    display: block;
+}
